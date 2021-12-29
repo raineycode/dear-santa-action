@@ -1,8 +1,8 @@
-name: 'Dear Santa Action'
-description: "Write to Santa and he'll respond with just the right Christmas greeting 🎅"
+name: 'Motivation Action'
+description: "Write to me and I'll respond with just the right🎯 message"
 branding:
-  icon: 'gift'
-  color: 'red'
+  icon: 'award'
+  color: 'green'
 inputs:
   token:
     description: |-
